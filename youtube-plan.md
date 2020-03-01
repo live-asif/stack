@@ -13,13 +13,12 @@
  
 ### Decide channel name 
  - [x]  Is finalized ?
->  Beta Track 
+>  **Beta Track**  
  
 ### Create 
 
 ## First to learn
 - [ ]  Awesome titles & sub tittles.
 - [ ] Cool & engaging effects.
-- [ ] 
-
+- [ ] abc
  
